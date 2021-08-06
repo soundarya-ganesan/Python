@@ -25,4 +25,4 @@
 
           * Program 10: LINEAR ALGEBRA USING NUMPY
 
-          * Program 11: DATA VISUALIZATION
+          * Program 11: DATA VISUALIZATION.
