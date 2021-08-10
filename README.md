@@ -15,7 +15,7 @@
 
           * Program 05: REGULAR EXPRESSIONS
 
-          * Program 06: PANDAS I
+          * Program 06: PANDAS I.
 
           * Program 07: PANDAS II (Missing values and regression)
 
@@ -25,4 +25,6 @@
 
           * Program 10: LINEAR ALGEBRA USING NUMPY
 
-          * Program 11: DATA VISUALIZATION
+          * Program 11: DATA VISUALIZATION.
+
+Happy learning Python
